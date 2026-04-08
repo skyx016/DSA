@@ -1,8 +1,24 @@
+/*
 import java.util.Scanner;
-public class string {
+public class cwa_string {
     static void main() {
         Scanner sc = new Scanner(System.in);
-        string st = sc.next();
-        System.out.println(st);
+       // String St = sc.next();
+        String St = sc.nextLine();
+        System.out.println(St);
+    }
+}
+*/
+
+public class cwa_string {
+    static void main() {
+        String name = "Akash";
+       // System.out.println(name);
+        int value = name.length();
+        System.out.println(value);
+        String lstring = name.toLowerCase();
+        System.out.println(lstring);
+        String ustring = name.toUpperCase();
+        System.out.println(ustring);
     }
 }
