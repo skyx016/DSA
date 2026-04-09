@@ -1,6 +1,6 @@
 
-public class practiceset5 {
-    static void main(String[] args) {
+//public class practiceset5 {
+   // static void main(String[] args) {
         /*
 
         // Practice problem 1
@@ -45,5 +45,5 @@ if (isInarray){
          */
         // problem number 4
 
-    }
-}
+   // }
+//}
